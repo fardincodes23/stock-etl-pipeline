@@ -1,0 +1,4 @@
+intall: pip install pandas yfinance
+
+pandas==2.2.1
+yfinance==0.2.37
