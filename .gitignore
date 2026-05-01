@@ -2,3 +2,6 @@ __pycache__/
 .env
 *.csv
 *.db
+
+pipeline_execution.log
+output/
